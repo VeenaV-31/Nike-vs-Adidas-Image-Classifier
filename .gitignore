@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# TensorFlow/Keras models
+*.keras
+*.h5
+
+# Operating System files
+.DS_Store
+Thumbs.db
